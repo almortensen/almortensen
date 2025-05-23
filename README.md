@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email	mortensenaiden2@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/she
 - ⚡ Fun fact: ...
 
 <!---
