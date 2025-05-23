@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and app development using HTML, and javascript
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email	mortensenaiden2@gmail.com
+- 📫 How to reach me email	aidenlm9120@gmail.com
 - 😄 Pronouns: he/she
 - ⚡ Fun fact: ...
 
